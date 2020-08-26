@@ -39,4 +39,4 @@ def vulcan (lona,qnt_lona):
             print('qnt_sarrafo: ',qnt_sarrafo)
             print('1 sarrafo de 6, outro de : ',tam_sarrafo )
             break
-tubos_e_sarrafos()
+
